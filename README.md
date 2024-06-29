@@ -1,6 +1,9 @@
 👋 Hi, I’m Ilya Kochetkov!
+
 👀 I’m interested in .net development
+
 🌱 I’m currently learning WPF and WinUI3 essentials
+
 
 <!---
 - 💞️ I’m looking to collaborate on projects 
