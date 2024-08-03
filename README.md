@@ -2,9 +2,7 @@
 
 👀 I’m interested in .net development
 
-🌱 I’m currently learning WPF and WinUI3 essentials
-
-
+🌱 I’m currently learning Angular and frontend essentials
 <!---
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me ...
